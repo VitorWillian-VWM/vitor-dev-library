@@ -188,11 +188,168 @@ Consulte o arquivo **LICENSE** para mais informações.
 
 # 👨‍💻 Autor
 
-**Vitor Willian Maciel da Silva**
+## Vitor Willian Maciel da Silva
 
-Estudante de Análise e Desenvolvimento de Sistemas.
+Desenvolvedor Full Stack, escritor técnico e entusiasta da área de Tecnologia, com foco em Ciência da Computação, Engenharia de Software, Inteligência Artificial, Desenvolvimento Web e projetos Open Source.
 
-Apaixonado por Programação, Inteligência Artificial, Engenharia de Software e projetos Open Source.
+A **Open Computer Science Library** nasceu com o objetivo de transformar anos de estudos, pesquisas e projetos em materiais gratuitos, organizados e acessíveis para estudantes, professores e desenvolvedores.
+
+---
+
+## 🎓 Formação Acadêmica
+
+- 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** — IFMS (Instituto Federal de Mato Grosso do Sul) – Campus Três Lagoas/MS.
+- 🎓 Engenharia de Software — Unicesumar *(curso realizado parcialmente)*.
+- 🎓 Técnico em Desenvolvimento de Sistemas — SENAC *(em andamento)*.
+- 🎓 Pedagogia *(curso em andamento)*.
+
+---
+
+## 📚 Cursos e Especializações
+
+### Desenvolvimento de Software
+
+- Desenvolvimento Web — Alura
+- Inteligência Artificial — Alura
+- Automação com n8n — Alura
+- Desenvolvimento de Games — Danki Code
+- Desenvolvimento Full Stack — DevClub *(em andamento)*
+
+### Gestão e Informática
+
+- Gestão Empresarial e Operação em Computadores — Global Informática (Três Lagoas/MS) *(10 anos de formação)*
+
+### Outros
+
+- Curso Agro — Colégio Salesiano Dom Bosco
+- Cinegrafista / Repórter Cinematográfico — Cine Petrobras (CRETL)
+
+---
+
+# 💻 Áreas de Conhecimento
+
+- Desenvolvimento Full Stack
+- Desenvolvimento Web
+- Inteligência Artificial
+- Engenharia de Software
+- APIs REST
+- Automação de Processos
+- Desenvolvimento Desktop
+- Desenvolvimento de Jogos
+- Open Source
+- Infraestrutura Linux
+- DevOps
+- Banco de Dados
+- Arquitetura de Software
+
+---
+
+# 💡 Linguagens de Programação
+
+- Java
+- JavaScript
+- TypeScript
+- Python
+- PHP
+- Lua
+- C
+- C++
+- C#
+- Visual Basic
+- SQL
+- JSON
+- Dart
+- Scala
+- MATLAB
+- R
+- Lisp *(iniciante)*
+- Assembly *(iniciante)*
+- Elixir *(iniciante)*
+- ML
+
+---
+
+# 🌐 Desenvolvimento Web
+
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- React
+- Vue.js
+- Express.js
+- NestJS
+- Fastify
+- Electron
+- Passport.js
+
+---
+
+# 🗄️ Bancos de Dados
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Mongoose
+
+---
+
+# ☁️ DevOps e Infraestrutura
+
+- Docker
+- Docker Compose
+- PM2
+- Nginx
+- Caddy
+- Certbot (Let's Encrypt)
+- Systemd
+- Git
+- NVM
+
+---
+
+# 🎮 Desenvolvimento de Jogos
+
+- Unity
+- Godot Engine
+- GameMaker Studio
+- Scratch
+
+---
+
+# 🔌 APIs e Plataformas
+
+- Discord API
+- APIs para Servidores Minecraft
+- APIs para Plugins Minecraft
+- APIs para GTA San Andreas Multiplayer (SA-MP)
+- APIs para open.mp
+
+---
+
+# 🎨 Design e Produção
+
+- Adobe Photoshop
+- Adobe Premiere
+- LibreSprite
+
+---
+
+# 🎯 Objetivo
+
+Acredito que o conhecimento deve ser compartilhado.
+
+Este projeto representa anos de estudos, pesquisas, cursos, experiências profissionais e projetos pessoais organizados em livros gratuitos para que qualquer pessoa possa aprender Computação de forma acessível, prática e organizada.
+
+Meu objetivo é expandir continuamente esta biblioteca, abrangendo desde os fundamentos da programação até temas avançados como Inteligência Artificial, Computação em Nuvem, Engenharia de Software, DevOps, Segurança da Informação e Arquiteturas Modernas.
+
+---
+
+## 🌎 Contato
+
+Contribuições, sugestões, correções e novas ideias são sempre bem-vindas.
+
+Juntos podemos construir uma das maiores bibliotecas gratuitas de Ciência da Computação em língua portuguesa.
 
 ---
 
