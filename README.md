@@ -77,7 +77,7 @@ Open-Computer-Science-Library
 | Livro | Status |
 |--------|--------|
 | 📘 Linguagem de Programação | ✅ Disponível |
-| 🤖 As Tendências da Inteligência Artificial para os Próximos Cinco Anos | 🚧 Em desenvolvimento |
+| 🤖 As Tendências da Inteligência Artificial para os Próximos Cinco Anos | ✅ Disponível |
 
 ---
 
