@@ -1,34 +1,74 @@
 # 📚 Open Computer Science Library
 
-> Uma biblioteca gratuita de livros, apostilas e materiais de estudo sobre Ciência da Computação, Programação, Engenharia de Software e Tecnologias Web.
+> Uma biblioteca Open Source de livros, apostilas e materiais gratuitos sobre Ciência da Computação, Programação, Inteligência Artificial, Engenharia de Software e Tecnologias Web.
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue)
-![Books](https://img.shields.io/badge/Books-1%20Disponível-success)
+![Books](https://img.shields.io/badge/Livros-2%20Disponíveis-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Language](https://img.shields.io/badge/Language-Português-brightgreen)
+![Language](https://img.shields.io/badge/Idioma-Português-brightgreen)
+![Open Source](https://img.shields.io/badge/Open%20Source-Sim-success)
+![Contributions](https://img.shields.io/badge/Contribuições-Bem--vindas-orange)
 
 ---
 
-# 📖 Sobre o Projeto
+# 🚀 Sobre o Projeto
 
-O **Open Computer Science Library** é um projeto Open Source criado com o objetivo de reunir livros, apostilas e materiais de estudo sobre Ciência da Computação, Programação e Engenharia de Software.
+A **Open Computer Science Library** é um projeto Open Source criado com o objetivo de disponibilizar gratuitamente livros, apostilas, apresentações e materiais de estudo sobre diversas áreas da Computação.
 
-A ideia surgiu durante minha jornada de estudos, transformando conteúdos aprendidos em sala de aula, pesquisas, livros técnicos, documentações oficiais e projetos práticos em materiais organizados, didáticos e acessíveis para qualquer pessoa interessada em aprender tecnologia.
+A ideia nasceu durante minha jornada de estudos em Análise e Desenvolvimento de Sistemas, onde percebi a dificuldade que muitos estudantes encontram para localizar conteúdos organizados, atualizados e escritos em uma linguagem simples.
 
-Além de servir como uma biblioteca pessoal de estudos, este repositório busca contribuir com a comunidade, disponibilizando gratuitamente materiais que possam auxiliar estudantes, professores e desenvolvedores em sua evolução profissional.
-
-Todo o conteúdo é escrito utilizando uma linguagem simples, procurando explicar conceitos técnicos de forma clara, sempre que possível utilizando exemplos práticos.
+Ao invés de manter esses materiais apenas para uso pessoal, decidi disponibilizá-los gratuitamente para toda a comunidade.
 
 ---
 
 # 🎯 Objetivos
 
 - 📚 Compartilhar conhecimento gratuitamente;
-- 💻 Criar livros e apostilas de qualidade;
-- 🎓 Auxiliar estudantes iniciantes e intermediários;
-- 📝 Organizar meus estudos e pesquisas;
+- 💻 Incentivar o aprendizado em Tecnologia;
+- 🧠 Produzir livros didáticos acessíveis;
+- 🚀 Auxiliar estudantes iniciantes e intermediários;
 - 🌎 Contribuir com a comunidade Open Source;
-- 🚀 Evoluir continuamente o conteúdo dos livros.
+- 📖 Organizar materiais de estudo em um único lugar.
+
+---
+
+# 📂 Estrutura do Repositório
+
+```
+Open-Computer-Science-Library
+│
+├── books/
+│   ├── inteligencia-artificial-5-anos/
+│   ├── linguagem-de-programacao/
+│   └── ...
+│
+├── assets/
+│   ├── banner.png
+│   ├── logo.png
+│   └── screenshots/
+│
+├── docs/
+│   ├── books.md
+│   ├── roadmap.md
+│   ├── faq.md
+│   └── contributors.md
+│
+├── templates/
+│   ├── book-template.md
+│   └── chapter-template.md
+│
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   ├── workflows/
+│   └── PULL_REQUEST_TEMPLATE.md
+│
+├── README.md
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── CHANGELOG.md
+├── LICENSE
+└── SECURITY.md
+```
 
 ---
 
@@ -37,150 +77,112 @@ Todo o conteúdo é escrito utilizando uma linguagem simples, procurando explica
 | Livro | Status |
 |--------|--------|
 | 📘 Linguagem de Programação | ✅ Disponível |
-| 📙 Lógica de Programação | ⏳ Planejado |
-| 📗 Estruturas de Dados | ⏳ Planejado |
-| 📕 Engenharia de Software | ⏳ Planejado |
-| 📒 Banco de Dados | ⏳ Planejado |
-| 📓 Redes de Computadores | ⏳ Planejado |
-| 📔 Sistemas Operacionais | ⏳ Planejado |
-| 📘 HTML e CSS | ⏳ Planejado |
-| 📙 JavaScript | ⏳ Planejado |
-| 📗 Java | ⏳ Planejado |
-| 📘 C | ⏳ Planejado |
-| 📗 C++ | ⏳ Planejado |
-| 📙 C# | ⏳ Planejado |
-| 📘 Python | ⏳ Planejado |
-| 📕 Node.js | ⏳ Planejado |
-| 📒 Inteligência Artificial | ⏳ Planejado |
+| 🤖 As Tendências da Inteligência Artificial para os Próximos Cinco Anos | 🚧 Em desenvolvimento |
 
 ---
 
-# 📖 Livro Disponível
+# 📖 Próximos Livros
 
-## 📘 Linguagem de Programação
+Pretendo adicionar futuramente materiais sobre:
 
-Este livro apresenta os principais fundamentos da programação, abordando desde a comunicação entre pessoas e computadores até conceitos como:
-
-- Linguagem de Máquina;
-- Linguagens de Baixo Nível;
-- Assembly;
-- Linguagem C;
-- Linguagens Compiladas;
-- Linguagens Interpretadas;
-- Linguagens Híbridas;
-- Big O;
-- Evolução das Linguagens;
-- Glossário Técnico.
-
-📄 **Disponível na pasta:**
-
-```text
-/books/linguagem-de-programacao
-```
-
----
-
-# 🧠 Conteúdo
-
-Os livros poderão abordar temas como:
-
-- Ciência da Computação;
-- Programação;
-- Algoritmos;
-- Estruturas de Dados;
-- Banco de Dados;
-- Engenharia de Software;
-- Arquitetura de Computadores;
-- Sistemas Operacionais;
-- Redes de Computadores;
-- Desenvolvimento Web;
-- Desenvolvimento Mobile;
-- Cloud Computing;
-- Inteligência Artificial;
-- Segurança da Informação;
-- Computação Gráfica;
-- Robótica;
-- Internet das Coisas (IoT).
-
----
-
-# 📂 Organização
-
-```text
-📦 books
-│
-├── 📘 linguagem-de-programacao
-│      ├── README.md
-│      ├── linguagem-de-programacao.pdf
-│      ├── assets
-│      ├── images
-│      └── examples
-│
-├── 📙 logica-de-programacao
-├── 📗 estruturas-de-dados
-├── 📕 engenharia-de-software
-├── 📒 banco-de-dados
-├── 📓 redes-de-computadores
-├── 📔 sistemas-operacionais
-├── 📘 html-css
-├── 📙 javascript
-├── 📗 java
-├── 📘 c
-├── 📗 cpp
-├── 📙 csharp
-├── 📘 python
-├── 📕 nodejs
-└── 📒 inteligencia-artificial
-```
-
----
-
-# 💻 Tecnologias Citadas
-
-Durante os livros poderão aparecer exemplos utilizando diferentes tecnologias.
-
-- C
-- C++
-- C#
-- Java
-- Kotlin
-- Python
+- Estrutura de Dados
+- Algoritmos
+- Banco de Dados
+- Engenharia de Software
+- Sistemas Operacionais
+- Redes de Computadores
+- Linux
 - JavaScript
-- TypeScript
-- PHP
-- Go
-- Rust
-- Swift
-- HTML
-- CSS
 - Node.js
-- SQL
+- React
+- NestJS
+- Docker
+- Kubernetes
+- Computação em Nuvem
+- Segurança da Informação
+- DevOps
+- Machine Learning
+- Deep Learning
+- Inteligência Artificial Generativa
+- Agentes de IA
+- MCP (Model Context Protocol)
 
 ---
 
-# 🎓 Sobre os Estudos
+# 🤝 Como contribuir
 
-Os conteúdos deste repositório são produzidos paralelamente aos meus estudos, pesquisas e projetos pessoais.
+Toda contribuição é bem-vinda.
 
-Cada livro é desenvolvido de forma gradual, sendo constantemente revisado, atualizado e ampliado conforme novos conhecimentos são adquiridos.
+Você pode contribuir:
 
-O objetivo é criar uma biblioteca aberta que possa crescer continuamente e servir como fonte de consulta para estudantes e profissionais da área da tecnologia.
+- 📖 criando livros;
+- 📝 corrigindo textos;
+- 🐞 reportando bugs;
+- 💡 sugerindo novos conteúdos;
+- 🌍 traduzindo materiais;
+- 🎨 melhorando diagramas;
+- 📚 revisando capítulos.
+
+Leia:
+
+- CONTRIBUTING.md
+- CODE_OF_CONDUCT.md
+
+antes de iniciar sua contribuição.
 
 ---
 
-# 🤝 Contribuições
+# 📑 Documentação
 
-Sugestões, correções e melhorias são sempre bem-vindas.
+A documentação do projeto está organizada em:
 
-Caso encontre algum erro ou tenha alguma sugestão, fique à vontade para abrir uma **Issue** ou enviar um **Pull Request**.
+| Documento | Descrição |
+|-----------|-----------|
+| docs/books.md | Lista completa de livros |
+| docs/roadmap.md | Planejamento do projeto |
+| docs/faq.md | Perguntas frequentes |
+| docs/contributors.md | Guia de colaboradores |
+
+---
+
+# 📄 Templates
+
+O projeto possui templates para manter um padrão de organização.
+
+- 📘 Template de Livro
+- 📄 Template de Capítulo
+- 🐞 Template de Bug Report
+- 💡 Template de Feature Request
+- 📚 Template para Novo Livro
+- 🔀 Template para Pull Request
+
+---
+
+# 🏗️ Roadmap
+
+Algumas metas do projeto:
+
+- ✅ Estrutura inicial
+- ✅ Primeiro livro publicado
+- ✅ Organização em templates
+- ✅ Sistema de documentação
+- 🚧 Mais livros
+- 🚧 Tradução para inglês
+- 🚧 Tradução para espanhol
+- 🚧 Website oficial
+- 🚧 Pesquisa integrada
+- 🚧 Versão online dos livros
+- 🚧 Geração automática de PDFs
 
 ---
 
 # 📜 Licença
 
-Este projeto está licenciado sob a Licença **MIT**.
+Este projeto utiliza a licença **MIT** para o código-fonte.
 
-Você pode estudar, compartilhar e utilizar este material livremente, respeitando os créditos do autor.
+Os livros e materiais didáticos podem possuir licenças específicas informadas em seus respectivos diretórios.
+
+Consulte o arquivo **LICENSE** para mais informações.
 
 ---
 
@@ -188,6 +190,14 @@ Você pode estudar, compartilhar e utilizar este material livremente, respeitand
 
 **Vitor Willian Maciel da Silva**
 
-Desenvolvedor Full Stack e estudante de Análise e Desenvolvimento de Sistemas.
+Estudante de Análise e Desenvolvimento de Sistemas.
 
-*"Compartilhar conhecimento é uma das melhores formas de aprender."*
+Apaixonado por Programação, Inteligência Artificial, Engenharia de Software e projetos Open Source.
+
+---
+
+## ⭐ Gostou do projeto?
+
+Se este projeto ajudou você, considere deixar uma ⭐ no repositório.
+
+Isso ajuda outras pessoas a encontrarem o projeto e incentiva a produção de novos livros gratuitos para a comunidade.
